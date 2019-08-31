@@ -1,0 +1,32 @@
+spotify-this-song
+Artist(s): Doja Cat
+Title: Juicy
+Link: https://p.scdn.co/mp3-preview/03562c0a486457356d89519b59a0a31746635d73?cid=2d1be210b07b4fbba9a7d2659834aa3f
+Album: Amala (Deluxe Version)
+----------------------
+concert-this
+Venue: Du Arena Location: Abu Dhabi,  Date: 09/04/2019
+------
+----------------------
+Venue: Ohana Festival [09.27 - 09.29] Location: Dana Point, CA Date: 09/29/2019
+------
+Venue: Rock in Rio [09.27 - 10.06] Location: Rio De Janeiro,  Date: 10/03/2019
+------
+Venue: The Formula 1 Singapore Grand Prix Location: Singapore,  Date: 09/22/2019
+------
+movie-this
+Title: The Big Short
+Released: 23 Dec 2015
+IMDB Rating: 7.8
+Rotten Tomatoes: 88%
+Country: USA
+Language: English
+Plot: In 2006-7 a group of investors bet against the US mortgage market. In their research they discover how flawed and corrupt the market is.
+Actors: Ryan Gosling, Rudy Eisenzopf, Casey Groves, Charlie Talbert
+----------------------
+spotify-this-song
+Artist(s): AC/DC
+Title: Thunderstruck
+Link: https://p.scdn.co/mp3-preview/3885f542871846183fefbd009577c95f5f46b0af?cid=2d1be210b07b4fbba9a7d2659834aa3f
+Album: The Razors Edge
+----------------------
