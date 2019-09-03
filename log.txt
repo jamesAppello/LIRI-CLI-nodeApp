@@ -30,3 +30,45 @@ Title: Thunderstruck
 Link: https://p.scdn.co/mp3-preview/3885f542871846183fefbd009577c95f5f46b0af?cid=2d1be210b07b4fbba9a7d2659834aa3f
 Album: The Razors Edge
 ----------------------
+spotify-this-song
+Artist(s): AC/DC
+Title: Thunderstruck
+Link: https://p.scdn.co/mp3-preview/3885f542871846183fefbd009577c95f5f46b0af?cid=2d1be210b07b4fbba9a7d2659834aa3f
+Album: The Razors Edge
+----------------------
+spotify-this-song
+Artist(s): AC/DC
+Title: Thunderstruck
+Link: https://p.scdn.co/mp3-preview/3885f542871846183fefbd009577c95f5f46b0af?cid=2d1be210b07b4fbba9a7d2659834aa3f
+Album: The Razors Edge
+----------------------
+spotify-this-song
+Artist(s): AC/DC
+Title: Thunderstruck
+Link: https://p.scdn.co/mp3-preview/3885f542871846183fefbd009577c95f5f46b0af?cid=2d1be210b07b4fbba9a7d2659834aa3f
+Album: The Razors Edge
+----------------------
+spotify-this-song
+Artist(s): Ricardo Golubev
+Title: Candyshop
+Link: https://p.scdn.co/mp3-preview/2d1428e60d3cde56114158214a800c6059ceaa76?cid=2d1be210b07b4fbba9a7d2659834aa3f
+Album: Round the Clock
+----------------------
+spotify-this-song
+Artist(s): Wreckx-N-Effect
+Title: Rump Shaker
+Link: null
+Album: Hard Or Smooth
+----------------------
+spotify-this-song
+Artist(s): Cypress Hill
+Title: Hits from the Bong
+Link: https://p.scdn.co/mp3-preview/e29b92e15dacedcb7891469d404864a44cc9f56e?cid=2d1be210b07b4fbba9a7d2659834aa3f
+Album: Black Sunday
+----------------------
+spotify-this-song
+Artist(s): Rick James
+Title: Give It To Me Baby
+Link: null
+Album: Street Songs
+----------------------

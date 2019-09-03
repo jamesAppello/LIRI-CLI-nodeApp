@@ -7,7 +7,7 @@ var moment = require("moment");
 var Spotify = require("node-spotify-api");
 var fs = require("fs");
 var spotify = new Spotify(keys.spotify);
-
+var inquire = require('inquirer');
 var args = process.argv; 
 //the action that will be performed
 var action = args[2];
@@ -117,9 +117,10 @@ var liriRun = function(act, query){
                 
             );
             break;
+            
         case "do-what-it-says":
                 //reads in the text from random.txt and calls liriRun() with the arguments it provides
-                fs.readFile("./random.txt", 'utf8', function(err, data){
+                fs.readFile("random.txt", 'utf8', function(err, data){
                     console.log(data);
                     if (err){
                         console.log(err);
@@ -137,6 +138,7 @@ var liriRun = function(act, query){
                 });
                 ;
             break;
+            
         default: 
             console.log("Invalid action argument!");
     }
@@ -146,7 +148,40 @@ var liriRun = function(act, query){
 
 // inquirer ADDIN
 // \put this INSIDE(inquirer)/
-
-
+/*
+inquire.prompt([{
+    type: 'input',
+    name: 'name',
+    message: "Welcome to LIRI\nWhat's your name?"
+}, 
+{
+    type: 'list',
+    name: "doWhatYouChoose",
+    message: "What do you want to do?",
+    choices: ["spotify-this-song", "movie-this", "concert-this"]
+}
+]).then(function(user) {
+    console.log('Hello '+user.name+' thanks for stopping by!');
+    switch (user) {
+        case user.doWhatYouChoose === "spotify-this-song":
+            action = 'spotify-this-song';
+            inquire.prompt([{
+                type: 'input',
+                name: 'songChoice',
+                message: "What song do you want to spotify?"
+            }
+          ]).then(function(lemmieGetTheAux) {
+              console.log(lemmieGetTheAux);
+              term = lemmieGetTheAux;
+              // liri
+              liriRun(action, term);
+          })
+    }
+})
+*/
+/* tried putting inquirer in but theres too much overlap,
+ and I don't want to waste more time making this over involved 
+ but I still must work on this to see how intricite i can make this app be! */
+//==========================================================================
 
 liriRun(action, term);
