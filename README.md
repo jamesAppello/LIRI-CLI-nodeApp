@@ -3,7 +3,7 @@
 ### this is a Command Line Interface (CLI) that allows the user to:
 1. get song details from spotifyAPI 
 2. look up movie details from omdbAPI
-3. get concert venue details in the area from bandsInTownAPI
+3. get concert venue details in the area from bandsInTownAPI *** API KEY HAS EXPIRED AND WILL NOT ALLOW ME TO GET NEW ONE
 
 #### How to make this application run
 > $ node bin/dev [command] [query]
